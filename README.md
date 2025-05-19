@@ -230,19 +230,19 @@ plt.show()
 ![image](https://github.com/user-attachments/assets/e9b49f24-3f8f-4b9c-be6c-a342b91d6710)
 
 ## Output:
-- **i)** Read and Display an Image.
+ **i)** Read and Display an Image.
 
 ![image](https://github.com/user-attachments/assets/2760e694-95a9-434f-8d95-91ffde91b6f2)
 
-- **ii)** Adjust Image Brightness.
+ **ii)** Adjust Image Brightness.
 
 ![image](https://github.com/user-attachments/assets/95376c59-c9eb-4b21-b23f-110e36b1762a)
 
-- **iii)** Modify Image Contrast.
+ **iii)** Modify Image Contrast.
 
 ![image](https://github.com/user-attachments/assets/68f9fa12-afb2-43ed-8908-aecb5c1c0913)
   
-- **iv)** Generate Third Image Using Bitwise Operations.
+ **iv)** Generate Third Image Using Bitwise Operations.
 
 ![image](https://github.com/user-attachments/assets/2d9fac34-adbf-4e3e-a0ca-8c75f3d0b133)
 
